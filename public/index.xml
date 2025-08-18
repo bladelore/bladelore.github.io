@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A minimal Hugo website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on A minimal Hugo website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/music/</guid>
+      <description>&lt;h1 id=&#34;r-hunter&#34;&gt;r hunter&lt;/h1&gt;&#xA;&lt;h2 id=&#34;albums&#34;&gt;albums&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://genot.bandcamp.com/album/a-symbol-for-disguise&#34;&gt;&lt;img src=&#34;http://localhost:1313/albums/a-symbol-for-disguise.jpg&#34; alt=&#34;A Symbol for Disguise&#34;&gt;&lt;/a&gt;&#xA;&lt;em&gt;A Symbol for Disguise&lt;/em&gt; (2022) &amp;ndash; r hunter and ubu boi &amp;ndash; Genot Centre.&lt;br&gt;&#xA;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rhunterrrr.bandcamp.com/album/chill-beats-to-suffer-and-die-to&#34;&gt;&lt;img src=&#34;http://localhost:1313/albums/chill-beats.jpg&#34; alt=&#34;Chill Beats to Suffer and Die to&#34;&gt;&lt;/a&gt;&#xA;&lt;em&gt;Chill Beats to Suffer and Die to&lt;/em&gt; (2021) &amp;ndash; r hunter &amp;ndash; AR53.&lt;br&gt;&#xA;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rhunterrrr.bandcamp.com/album/dead-ambient&#34;&gt;&lt;img src=&#34;http://localhost:1313/albums/dead-ambient.jpg&#34; alt=&#34;Dead Ambient&#34;&gt;&lt;/a&gt;&#xA;&lt;em&gt;Dead Ambient&lt;/em&gt; (2020) &amp;ndash; r hunter &amp;ndash; .jpeg Artefacts.&lt;br&gt;&#xA;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://genot.bandcamp.com/album/rrrrrrafael&#34;&gt;&lt;img src=&#34;http://localhost:1313/albums/rrrrrrafael.jpg&#34; alt=&#34;rrrrrrafael&#34;&gt;&lt;/a&gt;&#xA;&lt;em&gt;rrrrrrafael&lt;/em&gt; (2019) &amp;ndash; r hunter &amp;ndash; Genot Centre.&lt;br&gt;&#xA;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nicemusiclabel.bandcamp.com/album/012-estrus&#34;&gt;&lt;img src=&#34;http://localhost:1313/albums/estrus.jpg&#34; alt=&#34;estrus&#34;&gt;&lt;/a&gt;&#xA;&lt;em&gt;estrus&lt;/em&gt; (2018) &amp;ndash; r hunter &amp;ndash; Nice Music&#xA;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1313/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/software/</guid>
+      <description>&lt;h2 id=&#34;max-for-live-devices&#34;&gt;Max for Live devices&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/software/ethanol.png&#34; alt=&#34;Ethanol&#34;&gt;&#xA;&lt;em&gt;Ethanol&lt;/em&gt; &amp;ndash; modular Granular Synthesiser. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/ethanol-m4l&#34;&gt;Download&lt;/a&gt;&#xA;&lt;br&gt;&lt;/br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/software/death-string.png&#34; alt=&#34;Death String&#34;&gt;&#xA;&lt;em&gt;Death String&lt;/em&gt; &amp;ndash; chaotic wavefolded string model. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/death-string-m4l&#34;&gt;Download&lt;/a&gt;&#xA;&lt;br&gt;&lt;/br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/software/padsynth-rt.png&#34; alt=&#34;Padsynth rt&#34;&gt;&#xA;&lt;em&gt;Padsynth rt&lt;/em&gt; &amp;ndash; Real-time phase vocoder implementation of Paul Nasca&amp;rsquo;s classic padsynth algorithm. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/padsynth-rt-m4l&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.objectanimacy.patrickhase.xyz/&#34;&gt;&lt;img src=&#34;http://localhost:1313/software/object-animacy.png&#34; alt=&#34;object Animacy&#34;&gt;&lt;/a&gt;&#xA;&lt;em&gt;Object Animacy&lt;/em&gt; &amp;ndash; Avantwhatever festival &amp;ndash; Patric Hase and Asher Elazary &amp;ndash; GLSL and audio programming, sound design (2020).&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;p&gt;Supercollider, Max/MSP/gen, Python, R, typescript &amp;ndash; &lt;a href=&#34;https://github.com/bladelore&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unprojects.org.au/article/what-we-talk-about-when-we-talk-about-ai/&#34;&gt;&lt;em&gt;What We Talk About When We Talk About A.I.&lt;/em&gt;&lt;/a&gt; &amp;ndash; UN magazine&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;??&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
