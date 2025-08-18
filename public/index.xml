@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on A minimal Hugo website</title>
+    <title>Home on Asher Elazary</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on A minimal Hugo website</description>
+    <description>Recent content in Home on Asher Elazary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,7 @@
       <link>http://localhost:1313/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/software/</guid>
-      <description>&lt;h2 id=&#34;max-for-live-devices&#34;&gt;Max for Live devices&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/software/ethanol.png&#34; alt=&#34;Ethanol&#34;&gt;&#xA;&lt;em&gt;Ethanol&lt;/em&gt; &amp;ndash; modular Granular Synthesiser. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/ethanol-m4l&#34;&gt;Download&lt;/a&gt;&#xA;&lt;br&gt;&lt;/br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/software/death-string.png&#34; alt=&#34;Death String&#34;&gt;&#xA;&lt;em&gt;Death String&lt;/em&gt; &amp;ndash; chaotic wavefolded string model. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/death-string-m4l&#34;&gt;Download&lt;/a&gt;&#xA;&lt;br&gt;&lt;/br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/software/padsynth-rt.png&#34; alt=&#34;Padsynth rt&#34;&gt;&#xA;&lt;em&gt;Padsynth rt&lt;/em&gt; &amp;ndash; Real-time phase vocoder implementation of Paul Nasca&amp;rsquo;s classic padsynth algorithm. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/padsynth-rt-m4l&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.objectanimacy.patrickhase.xyz/&#34;&gt;&lt;img src=&#34;http://localhost:1313/software/object-animacy.png&#34; alt=&#34;object Animacy&#34;&gt;&lt;/a&gt;&#xA;&lt;em&gt;Object Animacy&lt;/em&gt; &amp;ndash; Avantwhatever festival &amp;ndash; Patric Hase and Asher Elazary &amp;ndash; GLSL and audio programming, sound design (2020).&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;p&gt;Supercollider, Max/MSP/gen, Python, R, typescript &amp;ndash; &lt;a href=&#34;https://github.com/bladelore&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;max-for-live-devices&#34;&gt;Max for Live devices&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Software I&amp;rsquo;ve developed over the years, using Max/MSP and gen~. I&amp;rsquo;ve used these on many records. They should mostly work, please contact me with details if they are broken.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/software/ethanol.png&#34; alt=&#34;Ethanol&#34;&gt;&#xA;&lt;em&gt;Ethanol&lt;/em&gt; &amp;ndash; decalcified granular synthesiser. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/ethanol-m4l&#34;&gt;Download&lt;/a&gt; &amp;ndash; (2022 - 2024)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time onset sliced granular synthesis (like Ableton&amp;rsquo;s simpler but you can record into the buffer).&lt;/li&gt;&#xA;&lt;li&gt;Per-grain effects (SVF filter and delay line).&lt;/li&gt;&#xA;&lt;li&gt;Unique granular time stretching algorithm.&lt;/li&gt;&#xA;&lt;li&gt;Cool grain polarity modulation options.&lt;/li&gt;&#xA;&lt;li&gt;Fully modular: LFO, ramp, random mod source, envelope follower, keytrack and midi CC mod sources.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/software/death-string.png&#34; alt=&#34;Death String&#34;&gt;&#xA;&lt;em&gt;Death String&lt;/em&gt; &amp;ndash; chaotic wavefolded string model. &amp;ndash; &lt;a href=&#34;https://github.com/bladelore/death-string-m4l&#34;&gt;Download&lt;/a&gt; &amp;ndash; (2023 - 2024)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing</title>

@@ -53,7 +53,7 @@ MIUC????23 -- Lily Tait and r hunter – Bar Open – excerpt. (2023).
 
 * *Absorbed IV* (festival) -- r hunter and Mara Macdonald -- Miscellania (2025).
 * *Power Trip* -- dis fig / uboa / r hunter / DNR / coshnow -- Miscellania. (2023).
-* *ABADIR* -- Abadir / Chloe Sobek / Female Wizard / r hunter/ Sarah McCauley -- Miscellania -- (2022).  
+* *ABADIR* -- Abadir / Chloe Sobek / Female Wizard / r hunter / Sarah McCauley -- Miscellania -- (2022).  
 * *Mutations* (festival) -- r hunter -- Miscellania (2022).  
 
 ## Remixes
