@@ -6,6 +6,10 @@ title: Music
 
 ## albums
 
+[![Yield](/albums/yield.jpg)](https://rhunterrrr.bandcamp.com/album/yield)
+*Yield* (2025) -- r hunter -- Absorb.  
+<br></br>
+
 [![A Symbol for Disguise](/albums/a-symbol-for-disguise.jpg)](https://genot.bandcamp.com/album/a-symbol-for-disguise)
 *A Symbol for Disguise* (2022) -- r hunter and ubu boi -- Genot Centre.  
 <br></br>
@@ -61,12 +65,6 @@ MIUC????23 -- Lily Tait and r hunter – Bar Open – excerpt. (2023).
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/685988683&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zenevloed" title="zenevloed" target="_blank" style="color: #cccccc; text-decoration: none;">zenevloed</a> · <a href="https://soundcloud.com/zenevloed/premiere-fausto-mercier-lazzzzerism-r-hunter-remixgenot-centre" title="Premiere: Fausto Mercier - LAZZZZERISM (r hunter Remix)[Genot Centre]" target="_blank" style="color: #cccccc; text-decoration: none;">Premiere: Fausto Mercier - LAZZZZERISM (r hunter Remix)[Genot Centre]</a></div>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/576236259&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wa-ste222" title="Wa?ste" target="_blank" style="color: #cccccc; text-decoration: none;">Wa?ste</a> · <a href="https://soundcloud.com/wa-ste222/hereditas-acidus-r-hunter" title="Hereditas Acidus (R Hunter Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Hereditas Acidus (R Hunter Remix)</a></div>
-
-## forthcoming
-
-*Yield* (2025, forthcoming) -- r hunter -- absorb. 
-
-*Page 3 Girl* (???, forthcoming) -- Camille O Real.
 
 # Other
 
